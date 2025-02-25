@@ -4,6 +4,8 @@
 
 This paper examines the possibility of predicting corporate bankruptcy through machine learning methods. Financial data from the period 2006-2009 are used and different classification models are compared. The analysis focuses on the prediction accuracy and the importance of the characteristics that contribute to the assessment of bankruptcy risk.
 
+![](img/CLASSF.jpg)
+
 [Classification_bankr_pred.pdf](Classification_bankr_pred.pdf)
 
 ## Δεδομένα & Μεθοδολογία
