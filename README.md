@@ -4,7 +4,7 @@
 
 This paper examines the possibility of predicting corporate bankruptcy through machine learning methods. Financial data from the period 2006-2009 are used and different classification models are compared. The analysis focuses on the prediction accuracy and the importance of the characteristics that contribute to the assessment of bankruptcy risk.
 
-![paper](Classification_bankr_pred.pdf)
+[Classification_bankr_pred.pdf](Classification_bankr_pred.pdf)
 
 ## Δεδομένα & Μεθοδολογία
 - **Δεδομένα**: Περιλαμβάνουν οικονομικούς δείκτες εταιρειών.
@@ -14,7 +14,7 @@ This paper examines the possibility of predicting corporate bankruptcy through m
 - **Μοντέλα**: Δοκιμάστηκαν διαφορετικά μοντέλα ταξινόμησης και επιλέχθηκε το βέλτιστο.
 
 ## Αποτελέσματα
-Τα αποτελέσματα έδειξαν ότι το Naive Bayes classifier είχε την καλύτερη απόδοση με ακρίβεια 72% βάσει μετρικών *υπό επιχειρηματικούς περιορισμούς* χρησιμοποιόντας το Test Set.
+Τα αποτελέσματα έδειξαν ότι το Naive Bayes classifier είχε την καλύτερη απόδοση με ακρίβεια 72% βάσει μετρικών \**υπο επιχειρηματικούς περιορισμούς*\* χρησιμοποιόντας το Test set και το Train set ως αποφυγή υπερ-προσαρμογής.
 
 ![](img/nb.png)
 
